@@ -1,19 +1,36 @@
-/* HEADER */
-.content {
-	padding: 0 15px;2
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #838994;
+	letter-spacing: 0.03em;
 }
-
+/* Navigation */
 .top-navigation {
-	
+	background-color: #fff;
 }
 
-.links li{
-	float: right;
-	display: inline-block;
-	padding: .2em;
-	list-style-type: none;
+.top-navigation > .content {
+	width: 970px;
+	height: 70px;
+	margin: 0 auto;
 }
 
 .logo {
 	height: 70px;
 }
+
+.content {
+	padding: 0px 15px;
+}
+
+.links {
+	margin-top: -3em;
+}
+.links li{
+	float: right;
+	display: inline-block;
+	padding: 1em;
+}
+
+
+
