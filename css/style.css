@@ -1,0 +1,19 @@
+/* HEADER */
+.content {
+	padding: 0 15px;2
+}
+
+.top-navigation {
+	
+}
+
+.links li{
+	float: right;
+	display: inline-block;
+	padding: .2em;
+	list-style-type: none;
+}
+
+.logo {
+	height: 70px;
+}
