@@ -23,7 +23,6 @@ body {
 
 .top-navigation .links {
 	float: right;
-    
     color: #838994;
     font-size: 18px;
     margin-top: 25px;
@@ -69,7 +68,6 @@ body {
 }
 
 .introduction .content {
-	text-align: center;
     margin: 0 auto;
     width: 970px;
     font-size: 20px;
@@ -77,4 +75,22 @@ body {
     overflow: auto;
 }
 
+.introduction .content h1 ,
+.introduction .content h3
+{
+	text-align: center;
+}
 
+.introduction .content h1 {
+	margin-top: 15rem;
+}
+
+.introduction .content button {
+    margin: 0 auto;
+    text-shadow: none;
+    border-style: none;
+    border-radius: 4px;
+    padding: 1rem 1.5rem;
+    display:block;
+    background-color: orange;
+}
