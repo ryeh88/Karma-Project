@@ -86,11 +86,29 @@ body {
 }
 
 .introduction .content button {
-    margin: 0 auto;
+    width: 10rem;
+    margin: 3rem auto;
     text-shadow: none;
     border-style: none;
     border-radius: 4px;
-    padding: 1rem 1.5rem;
+    padding: 1rem 1rem;
     display:block;
     background-color: orange;
+    color: white;
 }
+
+/* Three Icons Section*/
+.three-icons {
+	text-align: center;
+	padding-top: 5rem;
+}
+
+.three-icons ul {
+	list-style: none;
+	display: block;
+}
+
+.three-icons li {
+
+}
+
