@@ -96,7 +96,7 @@ body {
     border-radius: 4px;
     padding: 1rem 1rem;
     display:block;
-    background-color: orange;
+    background-color: #f15a29;
     color: white;
 }
 
@@ -129,17 +129,20 @@ body {
 	margin: 0 auto;
 	width: 20%;
 	float: center;
+	border-spacing:;
+
 }
 .social {
 	text-align: center;
-
-	
 }
-
 
 .social-icons  li {
 	list-style-type: none;
 	display: inline-block;
 	padding: 1rem;
-	}
+}
+
+hr {
+	width: 30%;
+}
 
