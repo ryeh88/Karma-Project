@@ -123,3 +123,23 @@ body {
 	height: 4em;
 }
 
+/* Footer / Social Media*/
+.border {
+	border-top: 2px solid black;
+	margin: 0 auto;
+	width: 20%;
+	float: center;
+}
+.social {
+	text-align: center;
+
+	
+}
+
+
+.social-icons  li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 1rem;
+	}
+
